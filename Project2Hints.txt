@@ -1,0 +1,5 @@
+tc tool:
+ifconfig - get interface name
+sudo tc qdisc add dev <interface name> root netem delay 100ms
+graphs:
+iperf -c server -t 10

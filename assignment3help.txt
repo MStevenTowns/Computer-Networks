@@ -1,0 +1,2 @@
+sync tree= tree showing shortest path from start node to each other node
+will be forwarding packets from 1 node to each other node acording to sync tree
